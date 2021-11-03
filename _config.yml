@@ -3,4 +3,4 @@ name: M4h4d3v's blog
 description: Why does a blog need description.
 url: https://m4h4d3v.github.io/m4h4d3v
 markdown: kramdown
-remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: jeffreytse/jekyll-theme-yat

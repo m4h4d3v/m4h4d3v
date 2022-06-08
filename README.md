@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
 
 -->
+[![PR454D's GitHub stats](https://github-readme-stats.vercel.app/api?username=PR454D&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on [ThreeJs](https://threejs.org) based personal blog
 - 🌱 I’m currently learning Data Analytics by Google
 - 👯 I’m looking to collaborate on ...

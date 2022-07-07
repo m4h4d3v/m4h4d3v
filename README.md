@@ -117,7 +117,11 @@ love.everyone()
 
 -->
 [![PR454D's GitHub stats](https://github-readme-stats.vercel.app/api?username=PR454D&layout=compact&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PR454D&hide=makefile,llvm,css&langs_count=6&layout=compact&theme=tokyonight&count_private=true) 
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PR454D&hide=makefile,llvm,css&langs_count=6&layout=compact&theme=tokyonight&count_private=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PR454D&theme=tokyonight&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+  
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!-- - 🔭 I’m currently working on [ThreeJs](https://threejs.org) based personal blog

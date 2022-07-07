@@ -117,7 +117,7 @@ love.everyone()
 
 -->
 [![PR454D's GitHub stats](https://github-readme-stats.vercel.app/api?username=PR454D&layout=compact&count_private=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PR454D&hide=makefile,llvm,css&layout=compact&theme=nightowl&count_private=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PR454D&hide=makefile,llvm,css&langs_count=6&layout=compact&theme=nightowl&count_private=true) 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!-- - 🔭 I’m currently working on [ThreeJs](https://threejs.org) based personal blog

@@ -1,10 +1,6 @@
 <h1 align="left"> Konnichiwa 😎 </h1>
 
-<div class="intro">
-  <span>
-    <b>Prasad Sawool</b>
-  </span> here
-</div
+  **Prasad Sawool** here
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Self+taught+software+developer;Cyber+security+enthusiast)](https://git.io/typing-svg)
 
@@ -112,10 +108,6 @@ love.everyone()
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-thakur7&" alt="rahul-thakur7" /></p> -->
 
 
-<!--
-
-
--->
 [![PR454D's GitHub stats](https://github-readme-stats.vercel.app/api?username=PR454D&layout=compact&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PR454D&hide=makefile,llvm,css&langs_count=6&layout=compact&theme=tokyonight&count_private=true)

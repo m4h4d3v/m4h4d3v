@@ -1,6 +1,0 @@
-#Jekyll configuration
-name: M4h4d3v's blog
-description: Why does a blog need description.
-url: https://pr454d.github.io/pr454d
-markdown: kramdown
-remote_theme: jeffreytse/jekyll-theme-yat

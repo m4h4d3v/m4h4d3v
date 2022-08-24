@@ -1,128 +1,30 @@
-<h1 align="left"> Konnichiwa 😎 </h1>
+<h1 align="center">Hi 👋, I'm Prasad Sawool</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-  **Prasad Sawool** here
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pr454d&label=Profile%20views&color=0e75b6&style=flat" alt="pr454d" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Self+taught+software+developer;Cyber+security+enthusiast)](https://git.io/typing-svg)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pr454d" alt="pr454d" /></a> </p>
 
+- 🔭 I’m currently working on **personal portfolio with Astro**
 
-[Tryhackme](https://tryhackme.com/p/Shiva)<br>
-[HacktheBox](https://app.hackthebox.com/profile/945242)<br>
-<br>
-### OSINT 😈
+- 🌱 I’m currently learning **Go**
 
+- 👨‍💻 All of my projects are available at [https://github.com/PR454D](https://github.com/PR454D)
+
+- 📫 How to reach me **thc.prasads@gmail.com**
+
+- 📄 Know about my experiences [https://gitlab.com/PR454D/resume](https://gitlab.com/PR454D/resume)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prasadsawool/" >
-  <img align="center" alt="| Linkedin" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://teitter.com/pr_454_d">
-  <img align="center" alt=" | Twitter" width="31px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:thc.prasads@gmail.com">
-  <img align="center" alt="| Gmail" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<!-- <a href="https://">
-<img align="center" alt=" | Blog" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
-</a> -->
-<p>
+<a href="https://linkedin.com/in/prasadsawool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasadsawool" height="30" width="40" /></a>
+</p>
 
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-<details align="center">
-<summary><samp>extend</samp></summary>
-<br>
-<!--
-My Projects:<br> 
- Chat Anonymously with friends: [Live](https://network-webapplication.herokuapp.com/)<br>
- -->
-<!--  GROUP CHAT APPLICATION: [Live](https://friends-grp.herokuapp.com/index.html)<br> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr454d&show_icons=true&locale=en&layout=compact" alt="pr454d" /></p>
 
-<!-- My Hacking Notes: [Live](https://www.notion.so/Ethical-hacking-and-Penetration-testing-4f32229f0c6f4911beae68b1a758ebf6)<br> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pr454d&show_icons=true&locale=en" alt="pr454d" /></p>
 
-
-
- 
-<!-- BLOG-POST-LIST:START --><br>
-<!-- RECENT BLOG POST:<br>
-
-[Medium](https://medium.com/@7h3F4lc0n)<br>
-
-[Blogger](https://fallc0n.blogspot.com/)<br>
-
-https://fallc0n.blogspot.com/2022/01/how-to-access-kali-or-remote-machine.html<br>
-https://telegra.ph/Easily-expose-your-localhost-on-the-Internet-03-26<br>
-https://telegra.ph/Try-Again-Later-on-Instagram-Reasons-why-you-see-this-error-03-26<br>
-https://telegra.ph/Symmetric--Asymmetric-Encryption-Whats-The-Difference-02-23<br>
-https://telegra.ph/How-To-Surf-Safely-On-Public-WiFi-02-23<br>
-https://telegra.ph/Common-Types-Of-Trojan-Malware-02-23<br>
--->
-<!-- BLOG-POST-LIST:END -->
-
-
-
-<!--
-```python
-from world import love
-
-class HumanBeing:
-
-    def __init__(self):
-        self.name = "Rahul thakur"
-        self.username = ["Rahul-Thakur7", "_TheFalcon_"]
-        self.pronouns = ["He", "Him"]
-        self.role = "Cybersecurity Enthusiast"
-        self.code = ["Python", "Javascript", "HTML", "CSS", "Bash", "Go"]
-        
-        self.askMeAbout = ["Tech", "hacking", "actronomy", "ideas",]
-        self.technologies = {
-            "frontEnd" : ["HTML", "CSS"],
-            "backEnd" : ["Nodejs", "expjs"],
-            "databases" : ["mongoDB", "MySql", "Sql"],
-            "misc" : ["heroku","netlify", "docker"],
-            "Virtualization" : ["VMware", "Virtualbox"],
-            "OS" : ["linux", "win10"],
-            "tools" : ["sqlmap", "nmap", "wireshark", "and other open-source"]
-            
-            
-        }
-        self.learning_cybersec = {
-            "learning_on" : ["THM", "HTB"]
-          
-            
-        }
-        
-        self.currentFocus = "Learning Cybersecurity"
-        self.funFact = "Fun fact: i like cats 🎴"
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting!!")
-
-me = HumanBeing()
-me.say_hi()
-love.everyone()
-```
--->
-
-
-<!-- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-thakur7&show_icons=true&locale=en&layout=compact" alt="rahul-thakur7" /></p> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-thakur7&show_icons=true&locale=en" alt="rahul-thakur7" /></p> -->
-<!-- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-thakur7&" alt="rahul-thakur7" /></p> -->
-
-
-[![PR454D's GitHub stats](https://github-readme-stats.vercel.app/api?username=PR454D&layout=compact&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PR454D&hide=makefile,llvm,css&langs_count=6&layout=compact&theme=tokyonight&count_private=true)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=PR454D&theme=tokyonight&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-  
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-<!-- - 🔭 I’m currently working on [ThreeJs](https://threejs.org) based personal blog
-- 🌱 I’m currently learning Data Analytics by Google
-- 👯 I’m looking to collaborate on [](https://gitlab.com/pixeltee/nvim-init.lua)
-- 🤔 I’m looking for help with 
-- 💬 Hobbies - reading novels, chess
-- 📫 How to reach me: [email](mailto:prasad.sawool@somaiya.edu)
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr454d&" alt="pr454d" /></p>

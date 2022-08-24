@@ -25,8 +25,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr454d&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&hide=Makefile,CSS,LLVM,HTML&langs_count=6" alt="pr454d" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pr454d&theme=tokyonight&show_icons=true&locale=en&layout=compact&hide_border=true" alt="pr454d" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pr454d&theme=tokyonight&show_icons=true&locale=en&layout=compact&hide_border=true" alt="pr454d" /></p>
 
 <a href="https://github.com/PR454D/nerdygook" ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pr454d&theme=tokyonight&hide_border=true&fire=7AA2F7" /></a>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=pr454d&theme=tokyonight&hide_border=true&repo=nerdygook" alt="pr454d" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pr454d&theme=tokyonight&hide_border=true&repo=nerdygook" alt="pr454d" /></p>

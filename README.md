@@ -10,13 +10,13 @@
 
 
 
-- 🔭 I’m currently working on **personal portfolio with Astro**
+<!-- - 🔭 I’m currently working on ****-->
 
 - 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PR454D](https://github.com/PR454D)
 
-- 📫 How to reach me **thc.prasads@gmail.com**
+- 📫 How to reach me **https://pixeltee.xyz**
 
 - 📄 Know about my experiences [https://gitlab.com/PR454D/resume](https://gitlab.com/PR454D/resume)
 
